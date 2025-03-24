@@ -1,0 +1,10 @@
+pH value: Valor de pH
+Hardness: Capacidad de filtrar jabón por el magnesio y el calcio presente en el agua 
+Solids: Capacidad de disolver minerales organicos e inorganicos
+Chloramines: Cloramina en el agua
+Sulfate: Sulfato en el agua
+Conductivity: Conductividad del agua
+Organic_carbon: Cantidad de carbón organico presente en el agua
+Trihalomethanes: Trihalometanos en el agua
+Turbidity: Turbiedad del agua
+Potability: Potabilidad del agua, dadas en 1 y 0. Donde 1 es si el agua es potable y 0 donde no es potable
